@@ -1,7 +1,7 @@
 # hse21_hw3
 
 
-Часть 1: https://colab.research.google.com/drive/1yMGSPC0Xr1JdW0p_PvlacQj83DYyKQWH#scrollTo=7SYlxq_llpwW
+### Часть 1: https://colab.research.google.com/drive/1yMGSPC0Xr1JdW0p_PvlacQj83DYyKQWH#scrollTo=7SYlxq_llpwW
 
 ![image](https://user-images.githubusercontent.com/75699392/144666452-d6a70510-6211-485c-aac7-34741bfc3ba6.png)
 
@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/75699392/144666857-bee4130c-3a82-49e2-8bff-aeac82ecf934.png)
 
 
-Часть 2:https://colab.research.google.com/drive/1uFfxdASmiW7_Qrj-XuHTi4427ZWYwocr
+### Часть 2:https://colab.research.google.com/drive/1uFfxdASmiW7_Qrj-XuHTi4427ZWYwocr
 
 
 ![image](https://user-images.githubusercontent.com/75699392/144666946-60144743-ab7c-4caa-a76a-5d8f994e4af5.png)
